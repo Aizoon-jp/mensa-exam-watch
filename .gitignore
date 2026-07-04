@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+mensa_exam.html
+.env
